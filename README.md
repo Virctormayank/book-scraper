@@ -31,13 +31,6 @@ cd book-scraper
 -----python scraper.py
 4. Output
 The scraped data will be saved to books.csv in the project folder.
-
-📈 Next Steps
-Add support for pagination (scrape all pages)
-
-Export additional fields like rating or image URL
-
-
 ✍️ Author
 Mayank – Python Automation & Web Scraping Developer
 
