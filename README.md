@@ -34,4 +34,12 @@ The scraped data will be saved to books.csv in the project folder.
 ✍️ Author
 Mayank – Python Automation & Web Scraping Developer
 
+### 🔄 Scraping All Pages
+
+Updated script supports full pagination – scraping all 50 pages of books automatically.
+
+➡ Run this file: `scraper_with_pagination.py`
+➡ Output: `books_scraped.csv` with complete book list
+
+
 
